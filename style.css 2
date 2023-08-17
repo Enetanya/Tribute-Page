@@ -1,0 +1,15 @@
+body{background-color:#D3D3D3;position:static;}
+*{border-box:box-sizing;}
+img
+{display:block;max-width:100%;height:auto;align-item:center;width:400px;margin:1px auto 1px;padding:0px 0px}
+#img-div{background-color:white;height:auto;margin:auto;padding:1px;}
+header,figcaption {text-align:center;padding:1px 1px 1px 1px;margin:-10px 5px 0px 5px;}
+h1{font-size:25px}
+h2{font-size:1.1em;padding:5px 11px;margin:5px 10px;text-align:center;}
+figcaption{font-size:0.78em;padding:5px;margin:0.4px;}
+ul,.conclusion {padding:1px 70px 1px ;margin:10px auto;width:55%}
+#Tribute-link{text-align:center;Padding:5px;margin:0.5px;}
+ a:link{color:blue;}
+ a:visited{color:brown;}  
+   a:hover{color:red;}
+   a:active{color:yellow;}
