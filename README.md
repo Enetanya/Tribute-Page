@@ -1,1 +1,1 @@
-I developed a Tribute-Page in honour of Dr.Norman Borlaug,a legendary biologist.The page was built with HTML and CSS.
+The HTML code is a tribute page for Dr. Norman Borlaug. It includes information about his life, achievements, and a timeline of significant events. The page is styled using CSS for layout and appearance. It also includes a link to his Wikipedia entry.
